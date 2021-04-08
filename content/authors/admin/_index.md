@@ -5,6 +5,9 @@ title: Vadim Liventsev
 # Is this the primary user of the site?
 superuser: true
 
+# Role/position/tagline
+role: AI Developer
+
 # Organizations/Affiliations to show in About widget
 # organizations:
 # - name: Stanford University
@@ -12,7 +15,6 @@ superuser: true
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
-bio: whadup
 
 # Interests to show in About widget
 # interests:
@@ -48,6 +50,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/vadim-liventsev-6b56b9196/
+- icon: stack-overflow
+  icon_pack: fab
+  link: https://stackoverflow.com/users/3554721/0x60
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -63,4 +68,4 @@ email: "hi@vadim.me"
 highlight_name: true
 ---
 
-Hello, world. I write on software, machine learning and its applications in healthcare. I am currently working towards a PhD in Deep Program Induction for Personal Healthcare at [TU Eindhoven](https://tue.nl) and [Philips Research](https://www.philips.com/a-w/research/locations/eindhoven.html). I organize [Eindhoven Reinforcement Learning Seminar](http://einreise.tilda.ws/).
+I am a software developer and machine learning researcher interested in ~~automating your job~~ applied artificial intelligence. I am currently doing a PhD in [Deep Program Induction for Personal Healthcare](https://www.philhumans.eu/esrs/esr-3/) at [TU Eindhoven](https://tue.nl) and [Philips Research](https://www.philips.com/a-w/research/locations/eindhoven.html). I run [Eindhoven Reinforcement Learning Seminar](http://einreise.tilda.ws/).
