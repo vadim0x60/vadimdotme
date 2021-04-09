@@ -53,6 +53,9 @@ social:
 - icon: stack-overflow
   icon_pack: fab
   link: https://stackoverflow.com/users/3554721/0x60
+- icon: telegram
+  icon_pack: fab
+  link: https://t.me/vadim0x60
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
