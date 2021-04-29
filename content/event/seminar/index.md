@@ -25,3 +25,4 @@ featured: true
 
 image:
   focal_point: Right
+---
