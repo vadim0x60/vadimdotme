@@ -4,9 +4,10 @@ title: Program Synthesis
 event: Eindhoven Reinforcement Learning Seminar
 event_url: https://einreise.tilda.ws
 
-location: [Online](https://meet.jit.si/EindhovenReinforcementLearningSeminar)
+location: Online
 
-summary: An introduction to Programmatically Interpretable Reinforcement Learning
+summary: An introduction to Programmatically Interpretable Reinforcement Learning in Healthcare
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -21,8 +22,14 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   focal_point: Right
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: "https://www.youtube.com/watch?v=Qd5Ergi66RQ&t=824s"
+
 ---
